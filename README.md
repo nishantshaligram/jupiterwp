@@ -1,3 +1,4 @@
 Jupiter
 --------
-Jupiter is WordPress theme with dark mode. It is mobile responsive and follows 12 grid format.
+1. Jupiter is WordPress theme with dark mode. 
+2. It is mobile responsive and follows 12 grid format.
